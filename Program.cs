@@ -11,7 +11,7 @@
             
             Console.WriteLine("Cloud Networking");
             Console.WriteLine("I graduate 2024");
-
+            Console.WriteLine("CW tab is a shortcut");
         }// End of Main Code Block
     }
 }
