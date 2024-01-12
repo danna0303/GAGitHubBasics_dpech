@@ -10,6 +10,8 @@
             // Console keyword that access actions with the Console
             
             Console.WriteLine("Cloud Networking");
+            Console.WriteLine("I graduate 2024");
+
         }// End of Main Code Block
     }
 }
